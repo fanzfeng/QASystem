@@ -1,0 +1,16 @@
+annoy==1.16.2
+Keras==2.0.6
+six==1.12.0
+numpy==1.16.3
+pyltp==0.2.1
+channels==1.1.6
+bert_serving_server==1.9.8
+pandas==0.22.0
+jieba==0.39
+Django==1.10
+tensorflow==1.11.0
+gensim==3.4.0
+xpinyin==0.5.6
+typing==3.6.2
+bert_serving==0.0.1
+psyco==1.6
